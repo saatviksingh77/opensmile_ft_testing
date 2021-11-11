@@ -1,2 +1,2 @@
-# opensmile_ft_testing
+# opensmile feature testing
 testing opensmile feature extraction
