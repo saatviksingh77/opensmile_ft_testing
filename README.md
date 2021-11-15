@@ -1,6 +1,6 @@
 # opensmile feature testing
 
-![image](https://img.shields.io/badge/python-3.9-4B8BBE?logo=python&labelColor=blue)
+![image](https://img.shields.io/badge/python-3.9-4B8BBE?logo=python&labelColor=FFD43B)
 ![image](https://img.shields.io/badge/openSMILE-v2.2.0-orange)
 ![image](https://img.shields.io/badge/plotly-v5.3.1-green)
 ![image](https://img.shields.io/badge/sox-14--4--2-red)
