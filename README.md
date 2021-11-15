@@ -1,9 +1,9 @@
 # opensmile feature testing
 Testing opensmile feature extraction
 
-https://img.shields.io/badge/openSMILE-v2.2.0-orange
-https://img.shields.io/badge/plotly-v5.3.1-blue
-https://img.shields.io/badge/sox-14--4--2-red
+<img src="https://img.shields.io/badge/openSMILE-v2.2.0-orange" />
+<img src="https://img.shields.io/badge/plotly-v5.3.1-blue" />
+<img src="https://img.shields.io/badge/sox-14--4--2-red" />
 
 opensmile v2.2.0, plotly v5.3.1, sox 14-4-2
 
