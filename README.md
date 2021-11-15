@@ -1,9 +1,9 @@
 # opensmile feature testing
 
-![image](https://img.shields.io/badge/python-3.9-4B8BBE?style=plastic&logo=python&labelColour=blue)
-![image](https://img.shields.io/badge/openSMILE-v2.2.0-orange?style=plastic)
+![image](https://img.shields.io/badge/python-3.9-4B8BBE?logo=python&labelColor=blue)
+![image](https://img.shields.io/badge/openSMILE-v2.2.0-orange)
 ![image](https://img.shields.io/badge/plotly-v5.3.1-green)
-![image](https://img.shields.io/badge/sox-14--4--2-red?style=plastic)
+![image](https://img.shields.io/badge/sox-14--4--2-red)
 
 Testing opensmile feature extraction
 
